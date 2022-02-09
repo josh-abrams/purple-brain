@@ -1,5 +1,6 @@
 {
     "name": "purple-brain",
+    "version": "0.1.0",
     "type": "dark",
     "semanticHighlighting": true,
     "semanticTokenColors": {
@@ -12,6 +13,13 @@
       "variable.defaultLibrary": {
         "foreground": "#f9c74f"
       }
+    },
+    "engines": {
+      "vscode": "^1.0.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/josh-abrams/purple-brain.git"
     },
     "tokenColors": [
       {
